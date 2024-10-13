@@ -35,17 +35,7 @@ A fun number-guessing game where the player tries to guess a randomly generated 
 - **CSS**: Styling the game interface with a retro look using the Google Font *Press Start 2P*.
 - **JavaScript**: Handles the game's logic, including random number generation, score updates, and DOM manipulation.
 
-## Project Structure
-
-```plaintext
-📁 Guess My Number
-│
-├── 📄 index.html     # The main HTML file for the game
-├── 📄 style.css      # Custom styles for the game
-└── 📄 script.js      # JavaScript logic for the game
-```
 
 ## Have fun️🎉
 
 ---
-
